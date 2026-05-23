@@ -11,6 +11,7 @@ A application that helps users manage their wardrobe and plan outfits based on w
 ## Technologies Used
 - Java (Swing)
 - MySQL
+- XXAMP
 - JDBC
 
 ## Database
